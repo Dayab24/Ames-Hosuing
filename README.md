@@ -1,1 +1,1 @@
-# Ames-Hosuing
+# Ames-Housing
